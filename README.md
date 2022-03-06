@@ -7,6 +7,7 @@ The purpose of this project is to determine the temperature data for the months 
 
 ## Results
 While comparing the differences in weather between June and December, we can conclude three major points:
+
      * The temperatures are somewhat similar between June and December whereby the maximum temperature in June is 85 and the maximum temperature in December is 83. 
      * The December Temps have a standard deviation of 3.745920 whereas the June Temps have a standard deviation of 3.257417.  This data shows that the December Temps is more  
        spread out or dispersed than the June Temps.
