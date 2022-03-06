@@ -18,4 +18,5 @@ As a result, the temperature data for the months of June and December in Oahu is
 I would also perform a precipitation query in order to gather more weather data for June and December.  This query will show how many wet days over the course in the particular months.  Also, I would perform a hours of daylight and twilight days that occurs in Oahu to determine how much light will be received on each given day. 
 
 
+![Dec Temps](https://user-images.githubusercontent.com/97000059/156910629-1eb7fb7f-3a7d-47bf-920e-ae6b76bfad22.png)
 
