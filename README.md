@@ -17,6 +17,9 @@ While comparing the differences in weather between June and December, we can con
 As a result, the temperature data for the months of June and December in Oahu is pretty sustainable year-round for the surf and ice cream shop business to be successful.
 I would also perform a precipitation query in order to gather more weather data for June and December.  This query will show how many wet days over the course in the particular months.  Also, I would perform a hours of daylight and twilight days that occurs in Oahu to determine how much light will be received on each given day. 
 
+![June Temps](https://user-images.githubusercontent.com/97000059/156910651-66fce31c-3547-49fd-9a68-dfdd8d629b85.png)
 
-![Dec Temps](https://user-images.githubusercontent.com/97000059/156910629-1eb7fb7f-3a7d-47bf-920e-ae6b76bfad22.png)
+![Dec Temps](https://user-images.githubusercontent.com/97000059/156910659-bcd13620-1bfd-43b4-b3a3-8a2fe4f85005.png)
+
+
 
